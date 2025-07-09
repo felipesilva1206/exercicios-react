@@ -125,3 +125,9 @@
 .hidden { display: none; }
 .visible { display: block; }
 
+/*=====  =====*/
+input::placeholder {
+  color: #999;
+}
+
+
